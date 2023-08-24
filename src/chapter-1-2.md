@@ -1,5 +1,3 @@
-Common Decision-Making Challenges
-===========================================================
 
 Effective decision-making can be challenging, even for experienced professionals. There are several common decision-making challenges that individuals may encounter in the workplace. This chapter will explore some of these challenges and how to overcome them.
 

@@ -1,5 +1,3 @@
-Assessing Your Personal Decision-Making Style
-===================================================================================
 
 Effective decision-making requires an understanding of not only the decision-making process, but also your own personal decision-making style. This chapter will explore different decision-making styles and how to assess your own personal style.
 

@@ -1,5 +1,3 @@
-Different Types of Decisions
-==================================================================
 
 Decision-making is a critical skill in the workplace that involves making choices based on available information and desired outcomes. However, not all decisions are the same. In this chapter, we will explore different types of decisions that individuals may face in the workplace.
 

@@ -1,5 +1,3 @@
-Continuous Learning and Improvement
-==============================================================================================
 
 Making decisions in the workplace is an ongoing process that requires continuous learning and improvement. In this chapter, we will explore how measuring results and learning from experience can help us continuously improve our decision-making skills.
 

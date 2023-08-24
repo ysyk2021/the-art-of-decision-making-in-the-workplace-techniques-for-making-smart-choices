@@ -1,5 +1,3 @@
-Dealing with Emotional Responses to Decisions
-======================================================================================
 
 Handling difficult decisions can be emotionally challenging, both for decision-makers and stakeholders. In this chapter, we will explore how to deal with emotional responses to decisions in the workplace.
 

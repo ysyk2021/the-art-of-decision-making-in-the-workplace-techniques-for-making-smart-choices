@@ -1,5 +1,3 @@
-Adapting to Changes in the Workplace
-===============================================================================================
 
 Making decisions in the workplace is an ongoing process that requires constant evaluation and adaptation. In this chapter, we will explore how measuring results and learning from experience can help us adapt to changes in the workplace and make smarter decisions.
 

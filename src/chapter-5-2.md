@@ -1,5 +1,3 @@
-Communicating the Decision Effectively
-==============================================================================================
 
 Implementing a decision is only half the battle; communicating the decision effectively is equally important. In this chapter, we will explore how to communicate decisions effectively in the workplace.
 

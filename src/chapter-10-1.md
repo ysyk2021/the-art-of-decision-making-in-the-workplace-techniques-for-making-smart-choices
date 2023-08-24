@@ -1,5 +1,3 @@
-Recap of Key Decision-Making Techniques
-===============================================================
 
 Effective decision-making is critical for success in the workplace. In this book, we have explored a number of techniques for making smart choices, including:
 

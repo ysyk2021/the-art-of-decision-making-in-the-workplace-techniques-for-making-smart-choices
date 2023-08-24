@@ -1,5 +1,3 @@
-Chapter 5: Implementing and Communicating the Decision
-======================================================
 
 Making a decision is only the first step in the process. Effective decision-making requires clear and effective communication and implementation. In this chapter, we will explore techniques for implementing and communicating decisions.
 

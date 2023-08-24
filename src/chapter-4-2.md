@@ -1,5 +1,3 @@
-Ranking and Scoring Options
-==================================================================================
 
 Evaluating options and making the final decision is a critical step in the decision-making process. In this chapter, we will explore the benefits of ranking and scoring options and techniques for effectively implementing these methods.
 

@@ -1,5 +1,3 @@
-Chapter 2: Defining Decision-Making
-===================================
 
 Effective decision-making is a critical skill for success in the workplace. In this chapter, we will explore the different types of decisions, the decision-making process, and how to assess your personal decision-making style.
 

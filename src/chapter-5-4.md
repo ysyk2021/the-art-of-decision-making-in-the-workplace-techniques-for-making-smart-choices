@@ -1,5 +1,3 @@
-Managing Change and Transitions
-========================================================================================
 
 Making a decision is only the first step in a long process of implementation and communication. In this chapter, we will explore strategies for implementing decisions effectively and managing change and transitions that result from those decisions.
 

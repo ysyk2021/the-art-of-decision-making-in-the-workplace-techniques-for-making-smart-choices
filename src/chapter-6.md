@@ -1,5 +1,3 @@
-Chapter 6: Handling Difficult Decisions
-=======================================
 
 Making difficult decisions is an inevitable part of any workplace. In this chapter, we will explore techniques for handling tough decisions effectively.
 

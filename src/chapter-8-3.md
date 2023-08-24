@@ -1,5 +1,3 @@
-Managing Decision-Making During Times of Change
-==================================================================================================
 
 Managing decision-making during times of change is a significant challenge for organizations. In this chapter, we will explore techniques for overcoming common challenges and reservations associated with decision-making during periods of change.
 

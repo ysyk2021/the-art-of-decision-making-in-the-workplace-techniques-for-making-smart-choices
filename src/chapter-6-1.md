@@ -1,5 +1,3 @@
-Strategies for Making Tough Decisions
-==============================================================================
 
 Making tough decisions is a challenging task in the workplace. In this chapter, we will explore strategies for making tough decisions effectively.
 

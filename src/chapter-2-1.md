@@ -1,5 +1,3 @@
-Overview of Decision-Making
-=================================================================
 
 Decision-making is the process of selecting a course of action from among multiple alternatives based on available information and desired outcomes. It is a critical skill in the workplace, where individuals are often faced with complex problems and competing priorities. In this chapter, we will provide an overview of the decision-making process.
 

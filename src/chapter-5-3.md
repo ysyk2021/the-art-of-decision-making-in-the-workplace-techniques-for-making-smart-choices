@@ -1,5 +1,3 @@
-Addressing Concerns and Resistance
-===========================================================================================
 
 Making a decision is only the first step in the decision-making process. Once a decision has been made, it must be implemented and communicated effectively in order to achieve the desired outcome. However, this can be challenging, as individuals may encounter resistance or concerns from others who are impacted by the decision. In this chapter, we will explore strategies for addressing concerns and resistance when implementing and communicating a decision in the workplace.
 

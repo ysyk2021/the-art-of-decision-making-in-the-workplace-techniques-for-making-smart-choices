@@ -1,5 +1,3 @@
-Developing an Action Plan
-=================================================================================
 
 Making a decision is only the first step in achieving a successful outcome. In this chapter, we will explore how to develop an action plan to implement and communicate decisions effectively.
 

@@ -1,5 +1,3 @@
-Developing Criteria for Evaluation
-=========================================================================================
 
 One of the most challenging aspects of decision-making is evaluating options and choosing the best course of action. In this chapter, we will explore how to develop criteria for evaluating options and making informed decisions.
 

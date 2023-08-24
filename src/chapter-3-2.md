@@ -1,5 +1,3 @@
-Collecting Relevant Information
-=========================================================================================
 
 Gathering information and identifying options is a critical step in the decision-making process. In this chapter, we will explore how to collect relevant information effectively.
 

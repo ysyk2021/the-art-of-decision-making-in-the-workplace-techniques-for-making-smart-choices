@@ -1,5 +1,3 @@
-Final Thoughts and Advice
-=================================================
 
 Effective decision-making is a critical skill for success in the workplace. In this book, we have explored various techniques and strategies for making smart choices that align with goals and values, address challenges, and deliver positive outcomes.
 

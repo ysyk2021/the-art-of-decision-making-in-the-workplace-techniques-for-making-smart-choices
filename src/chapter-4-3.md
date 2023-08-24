@@ -1,5 +1,3 @@
-Analyzing Risks and Rewards
-==================================================================================
 
 Evaluating options and making a decision requires analyzing risks and rewards associated with each choice. In this chapter, we will explore how to analyze risks and rewards effectively.
 

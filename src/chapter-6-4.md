@@ -1,5 +1,3 @@
-Seeking Input and Feedback
-===================================================================
 
 Making difficult decisions can be challenging, especially when the stakes are high. In this chapter, we will explore the importance of seeking input and feedback when handling difficult decisions.
 
@@ -39,5 +37,4 @@ Conclusion
 ----------
 
 Seeking input and feedback is critical to making informed decisions in the workplace. By identifying relevant stakeholders, consulting with experts, conducting focus groups or surveys, creating a committee or task force, and using scenario analysis, decision-makers can gain valuable insights into the potential consequences of their decisions. Seeking input and feedback promotes transparency, inclusivity, and collaboration, all of which are essential to making smart choices in the workplace.
-
 

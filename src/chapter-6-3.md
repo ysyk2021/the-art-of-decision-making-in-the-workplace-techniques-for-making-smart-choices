@@ -1,5 +1,3 @@
-Ethical Decision-Making Techniques
-===========================================================================
 
 Making difficult decisions is an inevitable part of working in the workplace. In this chapter, we will explore ethical decision-making techniques that can help decision-makers navigate complex ethical dilemmas.
 

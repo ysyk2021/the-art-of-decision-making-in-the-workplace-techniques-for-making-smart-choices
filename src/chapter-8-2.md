@@ -1,5 +1,3 @@
-Dealing with Resistance from Employees
-=========================================================================================
 
 Effective decision-making in the workplace can often be met with resistance from employees, whether due to fear of change, lack of understanding, or a desire to maintain the status quo. In this chapter, we will explore techniques for dealing with employee resistance and making smart choices in the face of opposition.
 

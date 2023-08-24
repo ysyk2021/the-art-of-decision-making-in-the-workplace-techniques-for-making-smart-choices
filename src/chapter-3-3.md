@@ -1,5 +1,3 @@
-Generating a Range of Options
-=======================================================================================
 
 Generating a range of options is key to effective decision-making. In this chapter, we will explore various techniques for gathering information and identifying options that align with goals and values.
 

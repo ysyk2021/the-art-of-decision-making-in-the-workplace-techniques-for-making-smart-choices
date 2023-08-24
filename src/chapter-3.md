@@ -1,5 +1,3 @@
-Chapter 3: Gathering Information and Identifying Options
-========================================================
 
 Effective decision-making in the workplace requires a solid foundation of information and options. In this chapter, we will explore techniques for gathering information, identifying the problem or challenge, generating a range of options, and utilizing brainstorming techniques.
 

@@ -1,5 +1,3 @@
-Chapter 9: Continuous Improvement and Evaluation
-================================================
 
 Effective decision-making is not a one-time event, but rather an ongoing process of evaluation and improvement. In this chapter, we will explore the importance of continuous improvement and evaluation in the workplace, and techniques for achieving it.
 
