@@ -1,5 +1,4 @@
 
-
 Every day in the workplace, we are faced with decisions, big and small. Some seem easy, while others require careful consideration and analysis. Making the right decision can be the difference between success and failure, and it's a skill that can be developed and mastered.
 
 In this book, we'll explore the art of decision-making in the workplace and provide practical techniques for making smart choices. We'll draw on examples from successful professionals across industries to illustrate how effective decision-making can lead to career success and fulfillment.
