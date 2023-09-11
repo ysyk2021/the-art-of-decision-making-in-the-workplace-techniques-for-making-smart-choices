@@ -1,5 +1,4 @@
-Chapter 10: Dealing with Resistance from Employees
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively dealing with resistance from employees when making decisions in the workplace. Resistance to change is a common challenge faced by managers and leaders, but with the right approach, it can be addressed and overcome. Understanding the underlying causes of resistance and implementing appropriate techniques will enable decision-makers to navigate employee resistance more effectively. Let's delve into key strategies for dealing with resistance from employees and fostering a supportive environment for decision-making.
 

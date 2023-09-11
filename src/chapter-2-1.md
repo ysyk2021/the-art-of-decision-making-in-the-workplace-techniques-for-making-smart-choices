@@ -1,5 +1,4 @@
-Chapter 1: Overview of Decision-Making
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will provide an overview of decision-making in the workplace. Decision-making is a fundamental skill that plays a crucial role in personal and professional success. By understanding the key principles and processes involved in effective decision-making, individuals can enhance their ability to make smart choices that align with organizational goals and maximize positive outcomes. Let's explore the key aspects of decision-making.
 

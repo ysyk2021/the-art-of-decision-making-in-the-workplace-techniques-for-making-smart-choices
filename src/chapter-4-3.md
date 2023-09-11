@@ -1,5 +1,4 @@
-Chapter 7: Analyzing Risks and Rewards
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of analyzing risks and rewards when making decisions in the workplace. Every decision involves an element of uncertainty, and understanding the potential risks and rewards associated with different options is essential for making smart choices. By conducting a comprehensive analysis of risks and rewards, individuals can make informed decisions that balance potential benefits with potential drawbacks. Let's delve into techniques for analyzing risks and rewards effectively.
 

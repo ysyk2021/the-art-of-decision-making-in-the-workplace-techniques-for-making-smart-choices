@@ -1,5 +1,4 @@
-Chapter 8: Ethical Decision-Making Techniques
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore ethical decision-making techniques that can help guide individuals in making smart choices aligned with moral principles and values. Ethical considerations are crucial in the workplace as decisions can have far-reaching impacts on stakeholders, including employees, customers, shareholders, and the broader society. By incorporating ethical frameworks into the decision-making process, individuals can navigate complex situations and make decisions that are morally sound and socially responsible. Let's delve into some ethical decision-making techniques.
 

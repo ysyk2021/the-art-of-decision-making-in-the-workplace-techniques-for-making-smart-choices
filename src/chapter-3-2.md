@@ -1,5 +1,4 @@
-Chapter 6: Collecting Relevant Information
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical task of collecting relevant information during the decision-making process. The availability of accurate and comprehensive information is essential for making informed decisions in the workplace. Let's delve into key strategies for collecting relevant information that promotes clarity, accuracy, and smart choices.
 

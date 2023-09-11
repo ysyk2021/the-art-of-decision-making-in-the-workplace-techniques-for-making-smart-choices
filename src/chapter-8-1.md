@@ -1,5 +1,4 @@
-Chapter 8: Addressing Fear and Control Issues
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively addressing fear and control issues that can hinder decision-making in the workplace. Fear and the need for control are common psychological factors that impact decision-making processes and outcomes. By understanding these underlying issues and implementing appropriate techniques, decision-makers can navigate fear and control-related challenges to make informed and effective choices. Let's delve into key strategies for addressing fear and control issues.
 

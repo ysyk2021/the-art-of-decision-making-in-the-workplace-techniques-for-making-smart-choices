@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Decisions
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of decisions that individuals encounter in the workplace. Understanding the different categories of decision-making can help individuals employ the appropriate techniques and approaches for each situation. Let's delve into the different types of decisions.
 

@@ -1,5 +1,4 @@
-Chapter 8: Reflection and Self-Evaluation
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of reflection and self-evaluation in the decision-making process. Continuous improvement and learning from past decisions are essential for making smart choices in the workplace. Let's delve into key strategies for reflection and self-evaluation that promote growth, adaptability, and informed decision-making.
 

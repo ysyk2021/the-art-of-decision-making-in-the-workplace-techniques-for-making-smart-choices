@@ -1,5 +1,4 @@
-Chapter 11: Tracking Progress and Measuring Results
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of tracking progress and measuring results in the decision-making process. Effective decision-making extends beyond the initial choice; it requires ongoing monitoring and evaluation to ensure desired outcomes are achieved. By tracking progress and measuring results, individuals can make informed adjustments, learn from experience, and continually improve their decision-making practices. Let's delve into key strategies for tracking progress and measuring results.
 

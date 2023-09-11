@@ -1,5 +1,4 @@
-Chapter 6: Ranking and Scoring Options
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the technique of ranking and scoring options to facilitate decision-making in the workplace. When faced with multiple alternatives, it's essential to have a systematic method for evaluating and comparing them. By employing a structured ranking and scoring approach, individuals can objectively assess the strengths and weaknesses of each option, enabling them to make smarter choices. Let's dive into techniques for effectively ranking and scoring options.
 

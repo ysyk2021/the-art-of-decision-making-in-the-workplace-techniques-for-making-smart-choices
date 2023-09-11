@@ -1,5 +1,4 @@
-Chapter 8: Balancing Data and Intuition
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the delicate balance between data-driven decision-making and intuition in the workplace. Making smart choices often involves leveraging both rational analysis based on available data and the intuitive sense of decision-makers. Understanding how to effectively combine these two approaches is key to making well-informed decisions. Let's delve into strategies for balancing data and intuition to optimize decision-making processes.
 

@@ -1,5 +1,4 @@
-Chapter 10: Continuously Learning and Improving
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of continuous learning and improvement in the decision-making process. The ability to adapt, evolve, and acquire new knowledge and skills is essential for making smart choices in the workplace. Let's delve into key strategies for continuously learning and improving that foster growth, innovation, and informed decision-making.
 

@@ -1,5 +1,4 @@
-Chapter 6: Developing Criteria for Evaluation
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of developing criteria for evaluation when making decisions in the workplace. Having clear and well-defined criteria is crucial for making smart choices that align with organizational goals and objectives. It provides a structured framework to assess options objectively and ensures consistency in decision-making processes. Let's delve into strategies for effectively developing criteria for evaluation.
 

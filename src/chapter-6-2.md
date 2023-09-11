@@ -1,5 +1,4 @@
-Chapter 9: Dealing with Emotional Responses to Decisions
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for effectively dealing with emotional responses to decisions in the workplace. Decision-making is not always a purely rational process; emotions can play a significant role and impact our ability to make sound choices. Understanding and managing these emotional responses is crucial for making smart decisions that benefit both individuals and organizations. Let's delve into strategies to navigate and address emotional reactions when making workplace decisions.
 

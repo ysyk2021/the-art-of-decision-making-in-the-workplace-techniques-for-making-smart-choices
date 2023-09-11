@@ -1,5 +1,4 @@
-Chapter 10: Developing an Action Plan
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of developing an action plan as a crucial step in the decision-making process. An action plan provides a roadmap for implementing decisions effectively, ensuring clear direction, accountability, and successful execution. Let's explore key strategies for developing an action plan that drives results in the workplace.
 

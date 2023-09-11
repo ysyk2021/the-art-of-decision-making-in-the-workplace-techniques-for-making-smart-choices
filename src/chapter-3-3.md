@@ -1,5 +1,4 @@
-Chapter 4: Generating a Range of Options
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial task of generating a range of options during the decision-making process. Having a diverse set of options allows individuals to consider a wider spectrum of possibilities, leading to more informed and effective decision-making in the workplace. Let's delve into key strategies for generating a range of options that promote creativity, innovation, and smart choices.
 

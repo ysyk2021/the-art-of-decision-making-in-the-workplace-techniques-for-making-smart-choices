@@ -1,5 +1,4 @@
-Chapter 4: Assessing Your Personal Decision-Making Style
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of understanding your personal decision-making style in the workplace. Each individual has a unique approach to making decisions, influenced by their personality, experiences, and cognitive biases. By assessing and understanding your personal decision-making style, you can enhance self-awareness, leverage strengths, and mitigate potential limitations. Let's delve into techniques for assessing your personal decision-making style.
 

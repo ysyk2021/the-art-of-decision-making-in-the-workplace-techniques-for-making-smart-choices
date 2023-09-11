@@ -1,5 +1,4 @@
-Chapter 8: Communicating the Decision Effectively
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical aspect of communicating the decision effectively. The success of a decision relies not only on making the right choice but also on how well it is communicated and understood by stakeholders. Effective communication ensures clarity, alignment, and engagement, enabling individuals to navigate change and work towards the successful implementation of the decision. Let's delve into key strategies for communicating the decision effectively.
 

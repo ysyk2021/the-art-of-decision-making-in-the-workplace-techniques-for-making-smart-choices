@@ -1,5 +1,4 @@
-Chapter 12: Adapting to Changes in the Workplace
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of adapting to changes in the workplace and how it relates to making smart choices. The ability to embrace change, be flexible, and adjust decision-making strategies is vital for success in today's dynamic and evolving work environments. Let's delve into key strategies for adapting to changes in the workplace that promote resilience, agility, and informed decision-making.
 

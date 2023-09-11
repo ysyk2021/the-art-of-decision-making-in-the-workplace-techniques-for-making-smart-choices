@@ -1,5 +1,4 @@
-Chapter 2: Identifying the Problem or Challenge
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial step of identifying the problem or challenge in the decision-making process. Clearly defining the problem is essential for making smart choices and finding effective solutions in the workplace. Let's delve into key strategies for identifying the problem or challenge that promotes clarity, focus, and informed decision-making.
 

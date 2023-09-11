@@ -1,5 +1,4 @@
-Chapter 12: Managing Decision-Making During Times of Change
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for effectively managing decision-making during times of change in the workplace. Change is inevitable in any organization, and navigating through it requires a thoughtful approach to decision-making. Understanding the unique challenges that arise during periods of change and implementing appropriate techniques will enable decision-makers to make informed choices that support successful adaptation to new circumstances. Let's delve into key strategies for managing decision-making during times of change.
 

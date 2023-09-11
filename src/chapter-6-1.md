@@ -1,5 +1,4 @@
-Chapter 10: Strategies for Making Tough Decisions
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for making tough decisions in the workplace. Tough decisions often involve complex problems, high stakes, and conflicting factors, making them challenging to navigate. However, with the right strategies, individuals can approach tough decisions with clarity, confidence, and effectiveness. Let's delve into techniques that can help make tough decisions more manageable and informed.
 

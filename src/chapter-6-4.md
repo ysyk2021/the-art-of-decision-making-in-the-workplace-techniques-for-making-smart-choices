@@ -1,5 +1,4 @@
-Chapter 8: Seeking Input and Feedback
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of seeking input and feedback when making decisions in the workplace. Decision-making is not a solitary task, and involving others can bring valuable insights, diverse perspectives, and collective wisdom to the process. By actively seeking input and feedback from relevant stakeholders, individuals can make more informed choices and increase the chances of successful outcomes. Let's delve into techniques for effectively seeking input and feedback.
 

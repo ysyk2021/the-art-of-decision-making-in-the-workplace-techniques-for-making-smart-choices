@@ -1,5 +1,4 @@
-Chapter 9: Addressing Concerns and Resistance
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of addressing concerns and resistance in the decision-making process. Change and new decisions often encounter various forms of resistance and apprehension from individuals within the workplace. Effectively addressing these concerns is crucial for successful implementation and acceptance of the decision. Let's delve into key strategies for addressing concerns and resistance.
 
